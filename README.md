@@ -1,2 +1,2 @@
-# MD2Model.pde
-Animated Quake 2 MD2 Model Loader for Processing 4.3
+Should be compatible with this, been awhile since I converted anything. <br>
+https://github.com/hypov8/blender_kingpin_models
