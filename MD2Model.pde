@@ -8,20 +8,7 @@
 
  * MD2 Loader - loads, displays, animates MD2 (Quake 2) models for Processing
  *   - based on C++ MD2 loader by DigiBen (http://www.gametutorials.com/Tutorials/opengl/OpenGL_Pg4.htm)
- *   - heavily adapted and completely rewritten in Processing by Marcello (http://marcello.cellosoft.com/)
- *   - cubic interpolation by entheh (http://bdavis.strangesoft.net/)
-
- * Spin3d - Handles nice trackball style camera movement in Processing
- *   - based on Matrix3D code from cello3d by Marcello
- 
- * PComponent - really lame Processing component engine
- *   - by Marcello
- 
- 
- * The 3D model used here was from the MD2 Loader code this was ported from,
- * I have no idea who made it, but I will assume it is from Quake 2 and is 
- * thus copyrighted by ID. (so get your own MD2 model pls lol)
- 
+ *   - heavily adapted and completely rewritten in Processing by Marcello (http://marcello.cellosoft.com/) 
  ********************************************************************************/
 
 int readInt4(byte[] b, int o) {
